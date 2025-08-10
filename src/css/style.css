@@ -1,0 +1,92 @@
+.carousel-head {
+    height: 600px;
+}
+
+.img-head {
+    z-index: -1;
+}
+
+.width-head {
+    text-align: center;
+}
+
+.apa-pemilu {
+    border-radius: 32px;
+    background: rgba(247, 237, 4, 0.59);
+}
+
+.width-900 {
+    max-width: 900px;
+}
+
+.span-font {
+    font-weight: normal !important;
+    color: rgb(33, 37, 41);
+}
+
+.heading-carousel {
+    color: #000;
+}
+
+
+.img-logo {
+    width: 7rem;
+}
+
+.bg-heading-about-web {
+    background-image: url("../img/heading-web-about.jpg");
+}
+
+.text-white.bg-dark.border.rounded.border-0.p-4.p-md-5.bg-heading-about-web-contras {
+    background: rgba(82, 82, 81, 0.57) !important;
+    text-align: center;
+}
+
+.img-size-partai {
+    width: 9rem;
+}
+
+@media (max-width: 400px) {
+    img.rounded.img-fluid.shadow.w-100.fit-cover.size-foto-kadida {
+        height: 24rem !important;
+    }
+}
+
+img.rounded.img-fluid.shadow.w-100.fit-cover.size-foto-kadida {
+    height: 45rem;
+}
+
+.card-title-data {
+    font-weight: bold;
+}
+
+.sbutitle {
+    font-size: 11px;
+}
+
+.label-tags-data {
+    width: 10rem;
+    background: rgba(238, 252, 80, 0.58);
+    text-align: center;
+    border-radius: 20px;
+}
+
+.background-nav {
+    background: rgb(255, 229, 0) !important;
+}
+
+.text-navbar li {
+    font-weight: bold;
+}
+
+.p-berita {
+    font-size: 13px;
+}
+
+button a {
+    color: #fff;
+}
+
+button a:hover {
+    color: #fff;
+}
